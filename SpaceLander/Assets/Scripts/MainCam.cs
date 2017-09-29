@@ -14,6 +14,8 @@ public class MainCam : MonoBehaviour
 
     void Awake()
     {
+        //asdasdagdfjgasgfasfafasfasfasdfasjkfgjıasgdfkjasfklhaslfaskhfkasfhşaskşf aks
+        //adsadasdoaSHFOAHSOFHAOSFHAOFHAOSFHOAOSHFOAHS
         Camera.main.aspect = asp;
         QualitySettings.vSyncCount = 0;
         Application.targetFrameRate = 60;
