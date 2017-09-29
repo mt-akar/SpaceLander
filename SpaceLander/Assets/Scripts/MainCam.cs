@@ -16,7 +16,7 @@ public class MainCam : MonoBehaviour
     {
         Camera.main.aspect = asp;
         QualitySettings.vSyncCount = 0;
-        Application.targetFrameRate = 3000;
+        Application.targetFrameRate = 60;
     }
     void Update()
     {
